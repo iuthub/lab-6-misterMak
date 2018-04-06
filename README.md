@@ -1,6 +1,12 @@
 # Lab 6: SQL and PHP exercises
 
-In this lab, you should complete exercises given in `lab6a.pdf` and `lab6b.pdf`.
+### Student Details:
+
+- **Student ID**: u1610142
+- **Student Name**: Mirkamol Khamidov
+- **Section Number**: 001
+
+
 
 You will practice your SQL skills and also implement a web page which dynamically loads and updates everything in database.
 
@@ -8,8 +14,7 @@ You will practice your SQL skills and also implement a web page which dynamicall
 - For `lab6b`, create a separate folder within this directory, and write all necessary PHP there.
 
 
-### Student Details:
 
-- **Student ID**: your student id
-- **Student Name**: your name
-- **Section Number**: your section number
+
+
+
